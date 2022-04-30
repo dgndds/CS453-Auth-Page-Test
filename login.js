@@ -22,8 +22,7 @@ function ValidateInput() {
         submitMsgBox.style.display = "flex";
     }else{
         submitMsgBox.style.display = "none"; 
-    }
-        
+    }        
 }
 
 function ValidatePassword(pass){
